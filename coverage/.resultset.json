@@ -1,0 +1,100 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/souravganguly/Desktop/ROR/rails_new/app/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/souravganguly/Desktop/ROR/rails_new/app/app/helpers/articles_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/souravganguly/Desktop/ROR/rails_new/app/app/helpers/welcome_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/souravganguly/Desktop/ROR/rails_new/app/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/souravganguly/Desktop/ROR/rails_new/app/app/models/article.rb": [
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/souravganguly/Desktop/ROR/rails_new/app/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/souravganguly/Desktop/ROR/rails_new/app/app/jobs/application_job.rb": [
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ],
+      "/Users/souravganguly/Desktop/ROR/rails_new/app/app/controllers/application_controller.rb": [
+        0,
+        0
+      ],
+      "/Users/souravganguly/Desktop/ROR/rails_new/app/app/controllers/articles_controller.rb": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0
+      ],
+      "/Users/souravganguly/Desktop/ROR/rails_new/app/app/controllers/welcome_controller.rb": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1566302133
+  }
+}
